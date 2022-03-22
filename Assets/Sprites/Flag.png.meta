@@ -169,10 +169,10 @@ TextureImporter:
       name: Flag_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 102
-        width: 350
-        height: 272
+        x: 49
+        y: 103
+        width: 349
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: Flag_1
       rect:
         serializedVersion: 2
-        x: 420
-        y: 102
+        x: 463
+        y: 103
         width: 348
-        height: 272
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: Flag_2
       rect:
         serializedVersion: 2
-        x: 807
-        y: 102
+        x: 890
+        y: 103
         width: 348
-        height: 272
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: Flag_3
       rect:
         serializedVersion: 2
-        x: 1211
-        y: 102
-        width: 350
-        height: 272
+        x: 1288
+        y: 103
+        width: 349
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: Flag_4
       rect:
         serializedVersion: 2
-        x: 1620
-        y: 102
-        width: 350
-        height: 272
+        x: 1693
+        y: 103
+        width: 349
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: Flag_5
       rect:
         serializedVersion: 2
-        x: 2020
-        y: 102
+        x: 2114
+        y: 103
         width: 349
-        height: 272
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,10 +295,10 @@ TextureImporter:
       name: Flag_6
       rect:
         serializedVersion: 2
-        x: 2421
-        y: 100
-        width: 350
-        height: 274
+        x: 2536
+        y: 84
+        width: 349
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: Flag_7
       rect:
         serializedVersion: 2
-        x: 2849
-        y: 102
+        x: 2955
+        y: 103
         width: 348
-        height: 272
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,10 +337,10 @@ TextureImporter:
       name: Flag_8
       rect:
         serializedVersion: 2
-        x: 3309
-        y: 100
-        width: 348
-        height: 274
+        x: 3388
+        y: 101
+        width: 349
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
